@@ -1,7 +1,6 @@
 ## 💻 Clone-Netflix
 
-![Alt text](assets/aplicacao.mp4)
-
+<video autocontrols src="https://giphy.com/embed/UDHUAyGEFt4PW960MJ">
 <h5>Aplicação criada utilizando a Api de filmes.</h5>
 ## Linguagens utilizadas
 <ul>
